@@ -170,7 +170,7 @@ C. Testing theories
 D. Applying security guidance
 
 
-###17. How is black-box testing performed?
+### 17. How is black-box testing performed?
 
 A. With no knowledge
 
@@ -210,3 +210,223 @@ B. A virus
 C. A weakness
 
 D. A rootkit
+
+## Chapter 2
+
+### 1. At which layer of the OSI model does a proxy operate?
+
+A. Physical
+
+B. Network
+
+C. Data Link
+
+D. Application
+
+
+### 2. If a device is using node MAC addresses to funnel traffic, what layer of the OSI model is this device working in?
+
+A. Layer 1
+
+B. Layer 2
+
+C. Layer 3
+
+D. Layer 4
+
+
+### 3. Which OS holds 90 percent of the desktop market and is one of our largest attack surfaces?
+
+A. Windows
+
+B. Linux
+
+C. Mac OS
+
+D. iOS
+
+
+### 4. Which port uses SSL to secure web traffic?
+
+A. 443
+
+B. 25
+
+C. 23
+
+D. 80
+
+
+### 5. What kind of domain resides on a single switchport?
+
+A. Windows domain
+
+B. Broadcast domain
+
+C. Secure domain
+
+D. Collision domain
+
+
+### 6. Which network topology uses a token-based access methodology?
+
+A. Ethernet
+
+B. Star
+
+C. Bus
+
+D. Ring
+
+### 7. Hubs operate at what layer of the OSI model?
+
+A. Layer 1
+
+B. Layer 2
+
+C. Layer 3
+
+D. Layer 4
+
+
+### 8. What is the proper sequence of the TCP three-way-handshake?
+
+A. SYN-ACK, ACK, ACK
+
+B. SYN, SYN-ACK, ACK
+
+C. SYN-SYN, SYN-ACK, SYN
+
+D. ACK, SYN-ACK, SYN
+
+
+### 9. Which of these protocols is a connection-oriented protocol?
+
+A. FTP
+
+B. UDP
+
+C. POP3
+
+D. TCP
+
+
+###10. A scan of a network client shows that port 23 is open; what protocol is this aligned with?
+
+A. Telnet
+
+B. NetBIOS
+
+C. DNS
+
+D. SMTP
+
+
+### 11. What port range is an obscure third-party application most likely to use?
+
+A. 1 to 1024
+
+B. 1025 to 32767
+
+C. 32768 to 49151
+
+D. 49152 to 65535
+
+
+### 12. Which category of firewall filters is based on packet header data only?
+
+
+A. Stateful
+
+B. Application
+
+C. Packet
+
+D. Proxy
+
+
+### 13. An administrator has just been notified of irregular network activity; what appliance functions in this manner?
+
+A. IPS
+
+B. Stateful packet filtering
+
+C. IDS
+
+D. Firewall
+
+
+### 14. Which topology has built-in redundancy because of its many client connections?
+
+A. Token ring
+
+B. Bus
+
+C. Hybrid
+
+D. Mesh
+
+
+### 15. When scanning a network via a hardline connection to a wired-switch NIC in promiscuous mode, what would be the extent of network traffic you would expect to see?
+
+A. Entire network
+
+B. VLAN you are attached to
+
+C. All nodes attached to the same port
+
+D. None
+
+
+### 16. What device acts as an intermediary between an internal client and a web resource?
+
+A. Router
+
+B. PBX
+
+C. VTC
+
+D. Proxy
+
+
+### 17. Which technology allows the use of a single public address to support many internal clients while also preventing exposure of internal IP addresses to the outside world?
+
+A. VPN
+
+B. Tunneling
+
+C. NTP
+
+D. NAT
+
+
+### 18. What network appliance senses irregularities and plays an active role in stopping that irregular activity from continuing?
+
+A. System administrator
+
+B. Firewall
+
+C. IPS
+
+D. IDP
+
+
+### 19. You have selected the option in your IDS to notify you via email if it senses any network irregularities. Checking the logs, you notice a few incidents but you didn’t receive any alerts. What protocol needs to be configured on the IDS?
+
+A. NTP
+
+B. SNMP
+
+C. POP3
+
+D. SMTP
+
+### 20. Choosing a protective network appliance, you want a device that will inspect packets at the most granular level possible while providing improved traffic efficiency. What appliance would satisfy these requirements?
+
+A. Layer 3 switch
+
+B. NAT-enabled router
+
+C. Proxy firewall
+
+D. Application firewall
