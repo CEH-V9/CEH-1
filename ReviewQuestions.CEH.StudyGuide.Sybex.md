@@ -870,3 +870,217 @@ B. Tracert
 C. Whois
 
 D. DNS
+
+## Chapter 5
+
+### 1. Which of the following is used for banner grabbing?
+
+A. Telnet
+
+B. FTP
+
+C. SSH
+
+D. Wireshark
+
+
+### 2. Which of the following is used for identifying a web server OS?
+
+A. Telnet
+
+B. Netcraft
+
+C. Fragroute
+
+D. Wireshark
+
+
+### 3. Which of the following is used to perform customized network scans?
+
+A. Nessus
+
+B. Wireshark
+
+C. AirPcap
+
+D. nmap
+
+
+### 4. Which of the following is not a flag on a packet?
+
+A. URG
+
+B. PSH
+
+C. RST
+
+D. END
+
+
+### 5. An SYN attack uses which protocol?
+
+A. TCP
+
+B. UDP
+
+C. HTTP
+
+D. Telnet
+
+### 6. Which of the following types of attack has no flags set?
+
+A. SYN
+
+B. NULL
+
+C. Xmas tree
+
+D. FIN
+
+
+### 7. What is missing from a half-open scan?
+
+A. SYN
+
+B. ACK
+
+C. SYN-ACK
+
+D. FIN
+
+
+### 8. During an FIN scan, what indicates that a port is closed?
+
+A. No return response
+
+B. RST
+
+C. ACK
+
+D. SYN
+
+
+### 9. During a Xmas tree scan what indicates a port is closed?
+
+A. No return response
+
+B. RST
+
+C. ACK
+
+D. SYN
+
+### 10. What is the three-way handshake?
+
+A. The opening sequence of a TCP connection
+
+B. A type of half-open scan
+
+C. A Xmas tree scan
+
+D. Part of a UDP scan
+
+
+### 11. A full-open scan means that the three-way handshake has been completed. What is the difference between this and a half-open scan?
+
+A. A half-open uses TCP.
+
+B. A half-open uses UDP.
+
+C. A half-open does not include the final ACK.
+
+D. A half-open includes the final ACK.
+
+### 12. What is the sequence of the three-way handshake?
+
+A. SYN, SYN-ACK, ACK
+
+B. SYN, SYN-ACK
+
+C. SYN, ACK, SYN-ACK
+
+D. SYN, ACK, ACK
+
+### 13. What is an ICMP echo scan?
+
+A. A ping sweep
+
+B. A SYN scan
+
+C. A Xmas tree scan
+
+D. Part of a UDP scan
+
+
+### 14. Which best describes a vulnerability scan?
+
+A. A way to find open ports
+
+B. A way to diagram a network
+
+C. A proxy attack
+
+D. A way to automate the discovery of vulnerabilities
+
+
+### 15. What is the purpose of a proxy?
+
+A. To assist in scanning
+
+B. To perform a scan
+
+C. To keep a scan hidden
+
+D. To automate the discovery of vulnerabilities
+
+
+### 16. What is Tor used for?
+
+A. To hide web browsing
+
+B. To hide the process of scanning
+
+C. To automate scanning
+
+D. To hide the banner on a system
+
+
+### 17. Why would you need to use a proxy to perform scanning?
+
+A. To enhance anonymity
+
+B. To fool firewalls
+
+C. Perform half-open scans
+
+D. To perform full-open scans
+
+
+### 18. A vulnerability scan is a good way to do what?
+
+A. Find open ports
+
+B. Find weaknesses
+
+C. Find operating systems
+
+### 19. A banner can do what?
+
+A. Identify an OS
+
+B. Help during scanning
+
+C. Identify weaknesses
+
+D. Identify a service
+
+
+### 20. nmap is required to perform what type of scan?
+
+A. Port scan
+
+B. Vulnerability scan
+
+C. Service scan
+
+D. Threat scan
