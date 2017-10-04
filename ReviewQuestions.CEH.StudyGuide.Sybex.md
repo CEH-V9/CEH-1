@@ -1064,6 +1064,8 @@ B. Find weaknesses
 
 C. Find operating systems
 
+D. Identify hardware
+
 ### 19. A banner can do what?
 
 A. Identify an OS
@@ -1289,3 +1291,222 @@ B. Perform searches
 C. Synchronize server information
 
 D. Decommission servers
+
+## Chapter 6
+
+### 1. Enumeration is useful to system hacking because it provides __________.
+
+A. Passwords
+
+B. IP ranges
+
+C. Configuration
+
+D. Usernames
+
+
+### 2. What does the enumeration phase not discover?
+
+A. Services
+
+B. User accounts
+
+C. Ports
+
+D. Shares
+
+
+### 3. How would you use Netcat to set up a server on a system?
+
+A. nc –l –p 192.168.1.1
+
+B. nc –l –p 1000
+
+C. nc –p –u 1000
+
+D. nc –l –p –t 192.168.1.1
+
+### 4. __________ is the process of exploiting services on a system.
+
+A. System hacking
+
+B. Privilege escalation
+
+C. Enumeration
+
+D. Backdoor
+
+
+### 5. How is a brute-force attack performed?
+
+A. By trying all possible combinations of characters
+
+B. By trying dictionary words
+
+C. By capturing hashes
+
+D. By comparing hashes
+
+
+### 6. A __________ is a type of offline attack.
+
+A. Cracking attack
+
+B. Rainbow attack
+
+C. Birthday attack
+
+D. Hashing attack
+
+
+### 7. An attacker can use a(n) __________ to return to a system.
+
+A. Backdoor
+
+B. Cracker
+
+C. Account
+
+D. Service
+
+
+### 8. A __________ is used to represent a password.
+
+A. NULL session
+
+B. Hash
+
+C. Rainbow table
+
+D. Rootkit
+
+
+### 9. A __________ is a file used to store passwords.
+
+A. Network
+
+B. SAM
+
+C. Database
+
+D. NetBIOS
+
+
+### 10. __________ is a hash used to store passwords in older Windows systems.
+
+A. LM
+
+B. SSL
+
+C. SAM
+
+D. LMv2
+
+
+### 11. __________ is used to partially encrypt the SAM.
+
+A. SYSKEY
+
+B. SAM
+
+C. NTLM
+
+D. LM
+
+
+### 12. Which system should be used instead of LM or NTLM?
+
+A. NTLMv2
+
+B. SSL
+
+C. Kerberos
+
+D. LM
+
+
+### 13. NTLM provides what benefit versus LM?
+
+A. Performance
+
+B. Security
+
+C. Mutual authentication
+
+D. SSL
+
+
+### 14. ADS requires what to be present?
+
+A. SAM
+
+B. Domain
+
+C. NTFS
+
+D. FAT
+
+
+### 15. What utility may be used to stop auditing or logging of events?
+
+A. ADS
+
+B. LM
+
+C. NTFS
+
+D. Auditpol
+
+### 16. On newer Windows systems, what hashing mechanism is disabled?
+
+A. Kerberos
+
+B. LM
+
+C. NTLM
+
+D. NTLMv2
+
+
+### 17. Which of the following is a utility used to reset passwords?
+
+A. TRK
+
+B. ERC
+
+C. WinRT
+
+D. IRD
+
+
+### 18. A good defense against password guessing is __________.
+
+A. Complex passwords
+
+B. Password policy
+
+C. Fingerprints
+
+D. Use of NTLM
+
+
+### 19. If a domain controller is not present, what can be used instead?
+
+A. Kerberos
+
+B. LM
+
+C. NTLMv1
+
+D. NTLMv2
+
+
+### 20. Alternate Data Streams are supported in which file systems?
+
+A. FAT16
+
+B. FAT32
+
+C. NTFS
+
+D. CDFS
