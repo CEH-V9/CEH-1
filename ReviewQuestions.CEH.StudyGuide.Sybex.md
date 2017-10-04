@@ -1292,7 +1292,7 @@ C. Synchronize server information
 
 D. Decommission servers
 
-## Chapter 6
+## Chapter 7
 
 ### 1. Enumeration is useful to system hacking because it provides __________.
 
@@ -1510,3 +1510,217 @@ B. FAT32
 C. NTFS
 
 D. CDFS
+
+## Chapter 8
+
+### 1. Which statement(s) defines malware most accurately?
+
+A. Malware is a form of virus.
+
+B. Trojans are malware.
+
+C. Malware covers all malicious software.
+
+D. Malware only covers spyware.
+
+
+### 2. Which is/are a characteristic of a virus?
+
+A. A virus is malware.
+
+B. A virus replicates on its own.
+
+C. A virus replicates with user interaction.
+
+D. A virus is an item that runs silently.
+
+
+### 3. A virus does not do which of the following?
+
+A. Replicate with user interaction
+
+B. Change configuration settings
+
+C. Exploit vulnerabilities
+
+D. Display pop-ups
+
+
+### 4. Which of the following is/are true of a worm?
+
+A. A worm is malware.
+
+B. A worm replicates on its own.
+
+C. A worm replicates with user interaction.
+
+D. A worm is an item that runs silently.
+
+
+### 5. What are worms typically known for?
+
+A. Rapid replication
+
+B. Configuration changes
+
+C. Identity theft
+
+D. DDoS
+
+### 6. What command is used to listen to open ports with netstat?
+
+A. netstat -an
+
+B. netstat -ports
+
+C. netstat -n
+
+D. netstat -s
+
+### 7. Which utility will tell you in real time which ports are listening or in another state?
+
+A. Netstat
+
+B. TCPView
+
+C. Nmap
+
+D. Loki
+
+
+### 8. Which of the following is not a Trojan?
+
+A. BO2K
+
+B. LOKI
+
+C. Subseven
+
+D. TCPTROJAN
+
+
+### 9. What is not a benefit of hardware keyloggers?
+
+A. Easy to hide
+
+B. Difficult to install
+
+C. Difficult to detect
+
+D. Difficult to log
+
+
+### 10. Which of the following is capable of port redirection?
+
+A. Netstat
+
+B. TCPView
+
+C. Netcat
+
+D. Loki
+
+
+### 11. A Trojan relies on __________ to be activated.
+
+A. Vulnerabilities
+
+B. Trickery and deception
+
+C. Social engineering
+
+D. Port redirection
+
+### 12. A Trojan can include which of the following?
+
+A. RAT
+
+B. TCP
+
+C. Nmap
+
+D. Loki
+
+### 13. What is a covert channel?
+
+A. An obvious method of using a system
+
+B. A defined process in a system
+
+C. A backdoor
+
+D. A Trojan on a system
+
+
+### 14. An overt channel is __________.
+
+A. An obvious method of using a system
+
+B. A defined backdoor process in a system
+
+C. A backdoor
+
+D. A Trojan on a system
+
+
+### 15. A covert channel or backdoor may be detected using all of the following except __________.
+
+A. Nmap
+
+B. Sniffers
+
+C. An SDK
+
+D. Netcat
+
+
+### 16. A remote access Trojan would be used to do all of the following except __________.
+
+A. Steal information
+
+B. Remotely control a system
+
+C. Sniff traffic
+
+D. Attack another system
+
+
+### 17. A logic bomb has how many parts, typically?
+
+A. One
+
+B. Two
+
+C. Three
+
+D. Four
+
+### 18. A logic bomb is activated by which of the following?
+
+A. Time and date
+
+B. Vulnerability
+
+C. Actions
+
+D. Events
+
+### 19. A polymorphic virus __________.
+
+A. Evades detection through backdoors
+
+B. Evades detection through heuristics
+
+C. Evades detection through rewriting itself
+
+D. Evades detection through luck
+
+### 20. A sparse infector virus __________.
+
+A. Creates backdoors
+
+B. Infects data and executables
+
+C. Infects files selectively
+
+D. Rewrites itself
