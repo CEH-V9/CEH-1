@@ -1084,3 +1084,208 @@ B. Vulnerability scan
 C. Service scan
 
 D. Threat scan
+
+## Chapter 6
+
+### 1. Enumeration is useful to system hacking because it provides which of the following?
+
+A. Passwords
+
+B. IP ranges
+
+C. Configurations
+
+D. Usernames
+
+
+### 2. Enumeration does not uncover which of the following pieces of information?
+
+A. Services
+
+B. User accounts
+
+C. Ports
+
+D. Shares
+
+
+### 3. __________ involves grabbing a copy of a zone file.
+
+A. Zone transfer
+
+B. nslookup transfers
+
+C. DNS transfer
+
+D. Zone update
+
+
+### 4. Which of the following would confirm a user named chell in SMTP?
+
+A. vrfy chell
+
+B. vrfy –u chell
+
+C. expn chell
+
+D. expn –u chell
+
+
+### 5. VRFY is used to do which of the following?
+
+A. Validate an email address
+
+B. Expand a mailing list
+
+C. Validate an email server
+
+D. Test a connection
+
+### 6. __________ is a method for expanding an email list.
+
+A. VRFY
+
+B. EXPN
+
+C. RCPT TO
+
+D. SMTP
+
+### 7. An attacker can use __________ to enumerate users on a system.
+
+A. NetBIOS
+
+B. TCP/IP
+
+C. NetBEUI
+
+D. NNTP
+
+### 8. A __________ is used to connect to a remote system using NetBIOS.
+
+A. NULL session
+
+B. Hash
+
+C. Rainbow table
+
+D. Rootkit
+
+### 9. __________ is used to synchronize clocks on a network.
+
+A. SAM
+
+B. NTP
+
+C. NetBIOS
+
+D. FTP
+
+### 10. Port number __________ is used for SMTP.
+
+A. 25
+
+B. 110
+
+C. 389
+
+D. 52
+
+### 11. Port number __________ is used by DNS for zone transfers.
+
+A. 53 TCP
+
+B. 53 UDP
+
+C. 25 TCP
+
+D. 25 UDP
+
+### 12. Which command can be used to view NetBIOS information?
+
+A. netstat
+
+B. nmap
+
+C. nbtstat
+
+### 13. SNScan is used to access information for which protocol?
+
+A. SMTP
+
+B. FTP
+
+C. SNMP
+
+D. HTTP
+
+
+### 14. SMTP is used to perform which function?
+
+A. Monitor network equipment
+
+B. Transmit status information
+
+C. Send email messages
+
+D. Transfer files
+
+### 15. Which ports does SNMP use to function?
+
+A. 160 and 161
+
+B. 160 and 162
+
+C. 389 and 160
+
+D. 161 and 162
+
+
+### 16. LDAP is used to perform which function?
+
+A. Query a network
+
+B. Query a database
+
+C. Query a directory
+
+D. Query a file system
+
+
+### 17. SNMP is used to do which of the following?
+
+A. Transfer files
+
+B. Synchronize clocks
+
+C. Monitor network devices
+
+D. Retrieve mail from a server
+
+### 18. SNMP is used to perform which function in relation to hardware?
+
+A. Trap messages
+
+B. Monitor and manage traffic
+
+C. Manage users and groups
+
+### 19. What is an SID used to do?
+
+A. Identify permissions
+
+B. Identify a domain controller
+
+C. Identify a user
+
+D. Identify a mail account
+
+### 20. A DNS zone transfer is used to do which of the following?
+
+A. Copy files
+
+B. Perform searches
+
+C. Synchronize server information
+
+D. Decommission servers
